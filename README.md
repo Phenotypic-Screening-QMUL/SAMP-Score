@@ -10,4 +10,4 @@ SAMP-Score is a stacked ensemble model employing consensus predictions from: log
 
 SAMP-Score has been used to identify novel compounds that initiate a senescence response in cancer cells, demonstrating its utility as a drug discovery tool.
 
-Read the pre-print at: https://www.biorxiv.org/content/10.1101/2025.06.09.658585v1
+Read the pre-print at: https://www.aging-us.com/article/206333/text
